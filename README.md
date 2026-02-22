@@ -36,4 +36,15 @@ The API allows users to upload an image and receive:
 
 ---
 
-## 📁 Project Structure
+### 3️⃣ Install Dependencies
+pip install fastapi uvicorn torch torchvision pillow numpy python-multipart streamlit requests
+
+
+📊 Future Improvements
+
+Grad-CAM Visualization
+Use VLMs to get information about treatment and management,like a chatbot.
+Model Deployment (Render/AWS)
+Docker Containerization
+Threshold-based risk scoring
+Integration with Hospital Systems
