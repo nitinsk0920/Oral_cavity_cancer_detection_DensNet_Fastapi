@@ -27,12 +27,12 @@ The API allows users to upload an image and receive:
 
 ## 🧠 Model Details
 
-- Architecture: DenseNet169
-- Pretrained: ImageNet (fine-tuned)
-- Loss Function: CrossEntropyLoss
-- Optimizer: AdamW
-- Metric Used: F1 Score
-- Output Classes: 2
+- Architecture: DenseNet169<br>
+- Pretrained: ImageNet (fine-tuned)<br>
+- Loss Function: CrossEntropyLoss<br>
+- Optimizer: AdamW<br>
+- Metric Used: F1 Score<br>
+- Output Classes: 2<br>
 
 ---
 
@@ -42,9 +42,9 @@ pip install fastapi uvicorn torch torchvision pillow numpy python-multipart stre
 
 📊 Future Improvements
 
-Grad-CAM Visualization
-Use VLMs to get information about treatment and management,like a chatbot.
-Model Deployment (Render/AWS)
-Docker Containerization
-Threshold-based risk scoring
-Integration with Hospital Systems
+Grad-CAM Visualization<br>
+Use VLMs to get information about treatment and management,like a chatbot.<br>
+Model Deployment (Render/AWS)<br>
+Docker Containerization<br>
+Threshold-based risk scoring<br>
+Integration with Hospital Systems<br>
