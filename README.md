@@ -36,7 +36,7 @@ The API allows users to upload an image and receive:
 
 ---
 
-### 3️⃣ Install Dependencies
+### 1. Install Dependencies
 pip install fastapi uvicorn torch torchvision pillow numpy python-multipart streamlit requests
 
 
